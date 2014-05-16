@@ -19,10 +19,8 @@ When you use multiple PostgreSQL instances on one server
 mdkir /var/log/postgres_backups
 
 Usage: backup_postgresql -i<instance name> -p<port number>
-
   -i  Instance name 
   -p  Port number
   -h  this help screen
-
 Example: backup_postgresql -itestdb -p5432
 
