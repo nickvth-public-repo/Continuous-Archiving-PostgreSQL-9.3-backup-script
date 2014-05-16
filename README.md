@@ -49,7 +49,10 @@ service postgresql-9.3 start
 
 **How to use:**
 
-Download the latest backup_postgresql script from  to the PostgreSQL host
+* Download the latest backup_postgresql script
+<pre>
+git https://github.com/nickvth-public-repo/scripts.git
+</pre>
 
 <pre>
 Usage: backup_postgresql -i<instance name> -p<port number>
