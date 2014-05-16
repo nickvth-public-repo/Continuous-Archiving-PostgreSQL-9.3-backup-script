@@ -53,7 +53,7 @@ service postgresql-9.3 start
 
 <pre>
 git clone https://github.com/nickvth-public-repo/Continuous-Archiving-PostgreSQL-9.3-backup-script.git
-cd scripts
+cd Continuous-Archiving-PostgreSQL-9.3-backup-script
 </pre>
 
 <pre>
