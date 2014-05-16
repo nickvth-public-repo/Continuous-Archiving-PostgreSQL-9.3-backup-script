@@ -52,7 +52,8 @@ service postgresql-9.3 start
 * Download the latest backup_postgresql script
 
 <pre>
-git https://github.com/nickvth-public-repo/scripts.git
+git clone https://github.com/nickvth-public-repo/scripts.git
+cd scripts
 </pre>
 
 <pre>
