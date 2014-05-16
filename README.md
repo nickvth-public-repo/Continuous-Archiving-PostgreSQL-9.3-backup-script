@@ -1,4 +1,4 @@
-**requirements:**
+**Requirements:**
 * PostgreSQL 9.3 installed on centos6.x
 <pre>
 yum install http://yum.postgresql.org/9.3/redhat/rhel-6-x86_64/pgdg-redhat93-9.3-1.noarch.rpm
