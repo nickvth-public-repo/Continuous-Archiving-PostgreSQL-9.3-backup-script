@@ -60,6 +60,7 @@ Example: backup_postgresql -ipgsql -p5432
 </pre>
 
 * Test run
+<pre>
 ./backup_postgresql -ipgsql -p5432 ;tail -f /var/log/postgres_backups/[logfile]
 </pre>
 
